@@ -47,3 +47,4 @@ while(count > 100);
     Console.WriteLine("+");
     count++;
 }
+/* просто коммент */
